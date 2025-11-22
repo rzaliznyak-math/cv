@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Russ Zaliznyak"
 subtitle: "AB Testing | Dev | Python | Research | Training | AI "
@@ -8,6 +9,27 @@ format:
     geometry: 
       - margin=1in
     mainfont: "Helvetica"
+execute:
+  echo: false
+jupyter: python3
+---
+-->
+
+---
+title: "Russ Zaliznyak"
+subtitle: "AB Testing | Dev | Python | Research | Training "
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    geometry: 
+      - margin=1in
+    mainfont: "Helvetica"
+  html:
+    theme: cosmo      # or "flatly", "journal", etc.
+    toc: false
+    smooth-scroll: true
+    page-layout: full
 execute:
   echo: false
 jupyter: python3
