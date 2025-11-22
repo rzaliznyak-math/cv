@@ -17,7 +17,7 @@ jupyter: python3
 
 ---
 title: "Russ Zaliznyak"
-subtitle: "AB Testing | Dev | Python | Research | Training "
+subtitle: "AB Testing | Dev | Python | Research | Training | AI "
 format:
   pdf:
     papersize: letter
