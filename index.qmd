@@ -1,0 +1,92 @@
+---
+title: "Russ Zaliznyak"
+subtitle: "AB Testing | Dev | Python | Research | Training | AI "
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    geometry: 
+      - margin=1in
+    mainfont: "Helvetica"
+execute:
+  echo: false
+jupyter: python3
+---
+
+\vspace{-31mm}
+
+
+# Skills
+\vspace{-5mm}
+
+I love math, problem solving, and writing python to help me those solve problems. I've learned to use _simulation studies_ to build my intuition for AB Testing and to leverage AI to speed up my research and development. 
+
+\vspace{-5mm}
+
+
+# Goals
+\vspace{-5mm}
+
+I want to advance experimentation, build tools that make solving hard problems easy, and teach others. My goal is to lead the effort to scale capabilities across the company; improve apps, libraries, and AI-driven tools.
+
+\vspace{-5mm}
+
+# Experience
+
+\vspace{-3mm}
+
+## Principal Data Scientist January 2022 - Present: _Trajectory Changing_
+
+- **Bayesian Analysis**: Introduced Intuit to _Fast_ Business-Focused AB Testing
+- **Simulation Engine**: Determine Optimal Stopping Thresholds
+- **AlphaBeta Testing App**: Portal with latest Methods (5,000+ views per month)
+- **New Methods Introduced**: CUPED, Informed Priors, Simulation Studies, Python Libraries
+- **AI**: Connecting AI Assistant to Support Apps + Training GPT to answer questions
+- **Teacher & Mentor**: TechTalks to show benefits of _Bayesian_, sessions to mentor peers.
+
+## Staff Data Scientist February 2019 - January 2022: _Making A Difference_
+
+- Deployed Interactive FAQ Site: AB Test Fundamentals, MABs, SPRT
+- Introduced _Sequential Testing_ & _SPRT_ methods to Intuit
+- Plotly Dash Apps: Sample Size Calculator (Fixed/SPRT) + Experiment Analysis Tools
+- Respected Experimentation Lecturer
+- Data Engineering & ETL: pySpark jobs to speed up test analysis
+
+## Sr. Data Scientist September 2016 - February 2019: _Finding A Niche_
+
+- Prototyped Experimentation Training Program for Data Scientists
+- Developed Experimentation Playbook & Guides for non-analysts
+- Launched App Recommendation Model in QBO
+- Built Customer Cash Flow Prediction Model for IPD
+
+## Sr. Technical Data Analyst Sept 2013 - Sept 2016: _Learning The Ropes_
+
+- Deployed logistic models to predict customer churn; paired with AB tests for outreach
+- Built Tableau Dashboards to Automate AB Test Design & Analysis
+- Exploratory Data Analysis
+
+# Education
+
+**Santa Clara University** — MS, Mathematics  
+*2010–2013*
+
+**San Jose State University** — BS, Mathematics  
+*2005–2008*
+
+**Santa Clara University** — BS, Finance  
+*2003–2005*
+
+# Links
+
+- [**ITS Webinar: Going Bayes: Shifting Our Testing Methods To Reflect Our Priorities**](https://share.vidyard.com/watch/wqUpv9CUAXj9cSrFzAQwQ3){target="_blank"}
+
+
+- [**Intuit Reduces Experiment Runtime More Than 50% with Dash Enterprise**](https://plotly.com/user-stories/intuit/){target="_blank"}
+
+- [**The Value of Big Swings**](https://rzaliznyak-math.github.io/the-value-of-big-swings/){target="_blank"}
+
+- [**Experiment Design & Analysis with NumPy Random**](https://rzaliznyak-math.github.io/numpy-random-p-value-power/){target="_blank"}
+
+- [**The Power of Data Simulation**](https://rzaliznyak-math.github.io/random/){target="_blank"}
+
+- [**Why Switch to Polars**](https://rzaliznyak-math.github.io/why-switch-to-polars/){target="_blank"}
